@@ -2,7 +2,7 @@
 
 #### Usage Guide
 
-```
+```xml
 		<dependency>
 	               <groupId>af.gov.anar.lib</groupId>
 	                <artifactId>anar-lib-activemq</artifactId>
