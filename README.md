@@ -3,11 +3,11 @@
 #### Usage Guide
 
 ```xml
-		<dependency>
-	               <groupId>af.gov.anar.lib</groupId>
-	                <artifactId>anar-lib-activemq</artifactId>
-                        <version>${project.version}</version>
-		</dependency>
+<dependency>
+    <groupId>af.gov.anar.lib</groupId>
+    <artifactId>anar-lib-activemq</artifactId>
+    <version>${project.version}</version>
+</dependency>
 
 ```
 
